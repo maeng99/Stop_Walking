@@ -34,5 +34,5 @@
 ## 4. 발표 PDF
 - 프로젝트 자세히 알아보기<br />[📄 slck_power_hub_PDF](https://github.com/maeng99/slack-power-hub/blob/master/SlackPower%20Hub.pdf)
 
-<img src="https://github.com/user-attachments/assets/b5e87f98-804c-4166-850f-138b8b80ebc5" width="600px"/>
+<img src="https://github.com/user-attachments/assets/469dae76-d8e2-4bf1-9437-023f90aa39af" width="600px"/>
 
