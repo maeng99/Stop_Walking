@@ -30,23 +30,9 @@
     - 몽유병 예방 훈련 프로그램
     - 실시간 위치 추적
 <br/>
-  
-## 4. Technology Stack
-- **FrontEnd:** React.js
-  
-- **BackEnd:** Node.js/Next.js, Spring
-  
-- **Database:** MySQL
 
-- **Cooperation:** Git, Notion
-<br/>
+## 4. 발표 PDF
+- 프로젝트 자세히 알아보기<br />[📄 slck_power_hub_PDF](https://github.com/maeng99/slack-power-hub/blob/master/SlackPower%20Hub.pdf)
 
+<img src="https://github.com/user-attachments/assets/b5e87f98-804c-4166-850f-138b8b80ebc5" width="100%"/>
 
-## 6. Architecture
-<img src="https://github.com/user-attachments/assets/774c32c7-8dd5-4ba8-8685-5d6e49cdd1aa" width="750px"/>
-<br/>
-
-## 7. 발표 PDF
-- 프로젝트 자세히 알아보기
-
-[📄 slck_power_hub_PDF](https://github.com/maeng99/slack-power-hub/blob/master/SlackPower%20Hub.pdf)
