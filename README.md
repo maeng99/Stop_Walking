@@ -2,7 +2,6 @@
 
 # 💤AI+X 선도인재양성 기초프로젝트 Final Project - "StopWalking": 몽유병 증상에 의한 사고 방지 서비스 (E팀)💤
 <br/>
-<br/>
 
 ## 1. Project Overview
 - **프로젝트 이름: StopWalking**
